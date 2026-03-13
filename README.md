@@ -43,4 +43,25 @@ Natural Language Processing for Speech and Text: From Beginner to Advanced
 # 4. How Computers understand sequences in NLP?
 - The core of all NLP technique is - to convert sequences into numerical representations.
 - These representations are then processed using classical, machine learning, and deep learning algorithms.
-- 
+
+# 5. Text Representation?
+['Natural', 'Language', 'Processing', 'for', 'Text', 'and', 'Sppech']
+- Natural: 0
+- Language: 1
+- Processing: 2
+- for: 3
+- Text: 4
+- and: 5
+- Speech: 6
+  
+# 6. Vector?
+- Ordered list of numbers.
+
+# 7. One-Hot Vector?
+- Natural ---> [1, 0, 0, 0, 0, 0, 0]
+- Language ---> [0, 1, 0, 0, 0, 0, 0]
+- Processing ---> [0, 0, 1, 0, 0, 0, 0]
+- for ---> [0, 0, 0, 1, 0, 0, 0]
+- Text ---> [0, 0, 0, 0, 1, 0, 0]
+- and ---> [0, 0, 0, 0, 0, 1, 0]
+- Speech ---> [0, 0, 0, 0, 0, 0, 1]
