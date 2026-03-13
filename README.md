@@ -65,3 +65,5 @@ Natural Language Processing for Speech and Text: From Beginner to Advanced
 - Text ---> [0, 0, 0, 0, 1, 0, 0]
 - and ---> [0, 0, 0, 0, 0, 1, 0]
 - Speech ---> [0, 0, 0, 0, 0, 0, 1]
+
+# 8. One-Hot Encoding using scikit-learn --->> 
