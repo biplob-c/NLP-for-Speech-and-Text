@@ -71,7 +71,9 @@ Natural Language Processing for Speech and Text: From Beginner to Advanced
 - An N-Gram is a continuous sequence of 'n' items from a given sample of text of speech. Such as - Charracters, syllables, or words.
 
 # Types of N-Grams:
-- Unigrams:['Natural', 'Language', 'Processing', 'for', 'Text', 'and', 'Sppech']
-- Bigrams: [('Natural','Language'), ('Language', 'Processing'), ('Processing', 'for'), ('for', 'Text'), ('text','and'), ('and', 'Sppech')]
-- Trigrams: [('Natural','Language','Processing'), ('Language','Processing','for'), ('Processing','for','Text'), ('for','Text','and'), ('text','and','Speech')
-- 
+-** Unigrams:** ['Natural', 'Language', 'Processing', 'for', 'Text', 'and', 'Sppech']
+- **Bigrams:** [('Natural','Language'), ('Language', 'Processing'), ('Processing', 'for'), ('for', 'Text'), ('text','and'), ('and', 'Sppech')]
+- **Trigrams:** [('Natural','Language','Processing'), ('Language','Processing','for'), ('Processing','for','Text'), ('for','Text','and'), ('text','and','Speech')
+
+# 10. N-Gram representation using NLTK: See code...
+
