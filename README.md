@@ -66,7 +66,9 @@ Natural Language Processing for Speech and Text: From Beginner to Advanced
 - and ---> [0, 0, 0, 0, 0, 1, 0]
 - Speech ---> [0, 0, 0, 0, 0, 0, 1]
 
-# 8. One-Hot Encoding using scikit-learn: See code...
+# 8. One-Hot Encoding using scikit-learn: 
+- See code...
+- 
 # 9. Text Represenation: N-grams?
 - An N-Gram is a continuous sequence of 'n' items from a given sample of text of speech. Such as - Charracters, syllables, or words.
 
@@ -75,5 +77,19 @@ Natural Language Processing for Speech and Text: From Beginner to Advanced
 - **Bigrams:** [('Natural','Language'), ('Language', 'Processing'), ('Processing', 'for'), ('for', 'Text'), ('text','and'), ('and', 'Sppech')]
 - **Trigrams:** [('Natural','Language','Processing'), ('Language','Processing','for'), ('Processing','for','Text'), ('for','Text','and'), ('text','and','Speech')
 
-# 10. N-Gram representation using NLTK: See code...
-
+# 10. N-Gram representation using NLTK: 
+- See code...
+- 
+# 11. Text Representation: Bag of Words (BoW)
+- A text representation technique in which text is converted to numbers according to the frequency of tokens.
+- Ignores order and context.
+- Dissimilar sentences represented as the same.
+- E.g:
+  - Natural Language Processing for Speech and Text.
+  - Language Processing for Natural Speech and Text.
+  - Text and Speech for Natural Language Processing.
+    - Natural(1), Language(1), Processing(1), for(1), Speech(1), and(1), Text(1)
+    - 
+# 12. Bag-of-Words using scikit-learn: 
+- See code
+- 
