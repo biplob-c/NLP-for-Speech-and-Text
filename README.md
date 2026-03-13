@@ -66,4 +66,12 @@ Natural Language Processing for Speech and Text: From Beginner to Advanced
 - and ---> [0, 0, 0, 0, 0, 1, 0]
 - Speech ---> [0, 0, 0, 0, 0, 0, 1]
 
-# 8. One-Hot Encoding using scikit-learn --->> 
+# 8. One-Hot Encoding using scikit-learn: See code...
+# 9. Text Represenation: N-grams?
+- An N-Gram is a continuous sequence of 'n' items from a given sample of text of speech. Such as - Charracters, syllables, or words.
+
+# Types of N-Grams:
+- # Unigrams: ['Natural', 'Language', 'Processing', 'for', 'Text', 'and', 'Sppech']
+- # Bigrams: [('Natural','Language'), ('Language', 'Processing'), ('Processing', 'for'), ('for', 'Text'), ('text','and'), ('and', 'Sppech')]
+- # Trigrams: [('Natural','Language','Processing'), ('Language','Processing','for'), ('Processing','for','Text'), ('for','Text','and'), ('text','and','Speech')
+- 
