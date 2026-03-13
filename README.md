@@ -100,13 +100,13 @@ Natural Language Processing for Speech and Text: From Beginner to Advanced
 # 14. TF-IDF using scikit-learn:
 - see code
 
-# 15. Text Representation Word Enbeddings:
+# 15. Text Representation Word Embeddings:
 - Word embeddings are Dense vector representations capable of encoding both semantic and contextual information from text data.
 - In the simplest term, in embedding, words are known by the company that they keep.
 - Embedding can be static, where all instances of a word are represented with the same vector.
 - Or Dynamic, where words have different vectors if they mean different   things.
 
-# 16. Word2Vec enbedding using Gensim:
+# 16. Word2Vec embedding using Gensim:
 - See code
 
 # 17. Embedding with pretrained spaCy mode
