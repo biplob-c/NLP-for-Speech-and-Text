@@ -92,4 +92,19 @@ Natural Language Processing for Speech and Text: From Beginner to Advanced
     - 
 # 12. Bag-of-Words using scikit-learn: 
 - See code
-- 
+
+# 13. TF-IDF (Term Frequency - Inverse Document Frequency): highlights importwn terms
+- **TF:** count of terms in document/total terms in document
+- **IDF:** log(total number of documents/number of documents containing term)
+
+# 14. TF-IDF using scikit-learn:
+- see code
+
+# 15. Text Representation Word Enbeddings
+
+# 16. Word2Vec enbedding using Gensim:
+- See code
+
+# 17. Embedding with pretrained spaCy mode
+
+# 18. Sentence Enbedding using the Sentence Transformers Library:
